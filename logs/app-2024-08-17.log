@@ -1,0 +1,8 @@
+[INFO ] 2024-08-17 18:36:19.853 [main] UserTest - ***************Creating User***************
+[INFO ] 2024-08-17 18:36:22.323 [main] UserTest - ***************Reading User***************
+[INFO ] 2024-08-17 18:36:23.427 [main] UserTest - ***************Updating User***************
+[INFO ] 2024-08-17 18:36:25.774 [main] UserTest - ***************Deleting User***************
+[INFO ] 2024-08-17 23:45:13.153 [main] UserTest2 - ***************Creating User***************
+[INFO ] 2024-08-17 23:45:16.805 [main] UserTest2 - ***************Reading User***************
+[INFO ] 2024-08-17 23:45:18.009 [main] UserTest2 - ***************Updating User***************
+[INFO ] 2024-08-17 23:45:20.382 [main] UserTest2 - ***************Deleting User***************

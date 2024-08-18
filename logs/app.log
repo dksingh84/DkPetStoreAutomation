@@ -1,0 +1,12 @@
+[INFO ] 2024-08-18 00:02:08.736 [main] UserTest - ***************Creating User***************
+[INFO ] 2024-08-18 00:02:10.078 [main] UserTest - ***************Reading User***************
+[INFO ] 2024-08-18 00:02:11.413 [main] UserTest - ***************Updating User***************
+[INFO ] 2024-08-18 00:02:14.116 [main] UserTest - ***************Deleting User***************
+[INFO ] 2024-08-18 00:12:58.691 [main] UserTest2 - ***************Creating User***************
+[INFO ] 2024-08-18 00:13:02.183 [main] UserTest2 - ***************Reading User***************
+[INFO ] 2024-08-18 00:13:03.520 [main] UserTest2 - ***************Updating User***************
+[INFO ] 2024-08-18 00:13:06.305 [main] UserTest2 - ***************Deleting User***************
+[INFO ] 2024-08-18 00:25:08.599 [main] UserTest2 - ***************Creating User***************
+[INFO ] 2024-08-18 00:25:11.106 [main] UserTest2 - ***************Reading User***************
+[INFO ] 2024-08-18 00:25:12.277 [main] UserTest2 - ***************Updating User***************
+[INFO ] 2024-08-18 00:25:14.625 [main] UserTest2 - ***************Deleting User***************
